@@ -1,2 +1,2 @@
 # GitHub Actions Lab 1
-lab try
+lab try 2
